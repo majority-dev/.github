@@ -11,5 +11,6 @@ Provide a brief and clear summary of the changes introduced by this PR, includin
 - [ ] I have updated the relevant documentation accordingly
 - [ ] All new and existing unit tests pass locally with my changes
 - [ ] I have merged any dependent changes and ensured compatibility in downstream modules
+- [ ] I have skipped the PR check workflow and I have stated a reason in above changes
 
 **Note**: This is our organization default template. You can override it with your own by adding a pull request template file inside your repository (`.github/PULL_REQUEST_TEMPLATE.md`).
